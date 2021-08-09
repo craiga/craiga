@@ -16,13 +16,6 @@ include-mobile-intro: true
   </div>
 </article>
 <article class="thing-i-built preview">
-  <figure><a href="https://mail.afgang.co.uk" data-fathom-goal-id="PJZLA0EY"><img src="/assets/screenshots/af-gang-mail.jpg"></a></figure>
-  <div>
-    <h1><a href="https://mail.afgang.co.uk" data-fathom-goal-id="PJZLA0EY">AF GANG Mail Exchange</a></h1>
-    <p>An app for an amazing online community  to bring a little bit of joy into each others lives.</p>
-  </div>
-</article>
-<article class="thing-i-built preview">
   <figure><a href="http://unixtimesta.mp" data-fathom-goal-id="RIVS7KEW"><img src="/assets/screenshots/unixtimestamp.jpg"></a></figure>
   <div>
     <h1><a href="http://unixtimesta.mp" data-fathom-goal-id="RIVS7KEW">unixtimesta.mp</a></h1>
