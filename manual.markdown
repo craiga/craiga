@@ -42,7 +42,8 @@ here's a manual for working with me. It's very much a work in progress.
 
 ## Things I love
 
-- Forming genuine relationships with my colleagues.
+- Hearing feedback from users of the things I build.
+- Being social with my colleagues.
 
 ## Other things to know about me
 
