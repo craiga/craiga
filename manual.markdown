@@ -15,9 +15,9 @@ here's a manual for working with me. It's very much a work in progress.
 
 ## The times/hours I like to work
 
+- I like to have flexible hours if the project allows. Staying in touch with friends and family in Australia often requires mid-morning calls.
 - I like to get started no later than 10:00 AM. This starting time can vary, depending on the situation. When working from home, this can be as early as 8:00 AM.
 - I like to take a break somewhere between midday and 2:00 PM.
-- I'll keep to my contracted hours.
 
 ## The best ways to communicate with me
 
