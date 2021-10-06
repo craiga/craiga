@@ -19,6 +19,14 @@ You can contact me via [email](mailto:craig@uhf62.co.uk).
 
 ## Work History
 
+### Sharper Informatics Solutions (April&nbsp;'20–now)
+
+[Sharper Informatics Solutions](https://www.sharperinfo.com) are a new start-up founded to help people unlock the value in their data. I've been building their first product, [My Data Chameleon](https://mydatachameleon.com), it's a tool to help prepare energy efficiency data for the California Public Utilities Commission. It's been built using Django, Heroku and GitHub actions.
+
+### Stealth-mode startup (Nov&nbsp;'20–now)
+
+I've been building a number of decoy applications for an upcoming cyber-security product using Django, Starlette, and Docker.
+
 ### Sharper Informatics Solutions (May&nbsp;'20–now)
 
 [Sharper Informatics Solutions](https://www.sharperinfo.com) are a Seattle-based startup with the goal of unlocking the hidden value in data.
@@ -33,7 +41,7 @@ I built a number of applications for a stealth-mode startup based in the [Univer
 
 [Red Badger](https://red-badger.com) are an award-winning digital transformation agency.
 
-I joined Red Badger's cross-functional team working with a government client using a variety of technologies, including Rust and React.
+I joined Red Badger's cross-functional team using a variety of technologies, including Rust and React.
 
 ### Kainos (Sep&nbsp;'19–Nov&nbsp;'19)
 
@@ -43,7 +51,7 @@ I joined Kainos's development team to help replace an expensive legacy system at
 
 ### Red Badger (Apr&nbsp;'19–Sep&nbsp;'19)
 
-I provided Django expertise to Red Badger's team to deliver a Django CMS project for their financial services client.
+I provided Django expertise to Red Badger's team to deliver a Django CMS project.
 
 ### MyOptique Group (Jul&nbsp;‘18–Apr&nbsp;‘19)
 
