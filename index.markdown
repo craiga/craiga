@@ -7,10 +7,12 @@ include-mobile-intro: true
 ---
 
 <article class="thing-i-built preview">
-  <figure><a href="https://mail.afgang.co.uk" data-fathom-goal-id="PJZLA0EY"><img src="/assets/screenshots/af-gang-mail.jpg"></a></figure>
+  <figure><a href="https://mydatachameleon.com" data-fathom-goal-id="MTSWKGSU"><img src="/assets/screenshots/my-data-chameleon.jpg"></a></figure>
   <div>
-    <h1><a href="https://mail.afgang.co.uk" data-fathom-goal-id="PJZLA0EY">AF GANG Mail Exchange</a></h1>
-    <p>An app for an amazing online community  to bring a little bit of joy into each others lives.</p>
+    <h1><a href="https://mydatachameleon.com" data-fathom-goal-id="MTSWKGSU">My Data Chameleon</a></h1>
+    <p>Helps users prepare their energy efficiency program data for submission to the
+      California Public Utilities Commission.
+      Built for <a href="https://www.sharperinfo.com">Sharper Informatics Solutions</a>.</p>
   </div>
 </article>
 <article class="thing-i-built preview">
@@ -18,13 +20,6 @@ include-mobile-intro: true
   <div>
     <h1><a href="http://unixtimesta.mp" data-fathom-goal-id="RIVS7KEW">unixtimesta.mp</a></h1>
     <p>Since <a href="https://www.unixtimesta.mp/1300013503" data-fathom-goal-id="RIVS7KEW">2011</a> I've been running this site which converts Unix Time to and from human-readable time.</p>
-  </div>
-</article>
-<article class="thing-i-built preview">
-  <figure><a href="https://rough-trade-calendars.craiga.id.au" data-fathom-goal-id="FN3V3C8A"><img src="/assets/screenshots/rough-trade.jpg"></a></figure>
-  <div>
-    <h1><a href="https://rough-trade-calendars.craiga.id.au" data-fathom-goal-id="FN3V3C8A">Rough Trade Calendars</a></h1>
-    <p>This sites scrapes roughtrade.com for upcoming events, and then serves iCalendar feeds of those events.</p>
   </div>
 </article>
 <article class="thing-i-built preview">
@@ -40,6 +35,7 @@ include-mobile-intro: true
 </header>
 
 {% for post in site.posts %}
+
 <article class="preview">
   {% if post.image %}
     <figure><img src="{{ post.image }}" alt="{{ post.image_description }}"></figure>

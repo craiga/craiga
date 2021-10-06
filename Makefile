@@ -1,23 +1,13 @@
-default:  ## Build and serve the web site.
-	bundle install
-	bundle exec rougify style base16.solarized > _sass/rouge.scss
-	bundle exec jekyll serve --incremental --livereload
+_sass/rouge.scss:
+	bundle exec ./bin/rougify style base16.solarized > _sass/rouge.scss
 
 drafts:  ## Build and serve the web site with blog post drafts.
 	bundle exec jekyll serve --livereload --drafts
 
-cv.pdf:  ## Create CV PDF.
+cv.pdf: cv.markdown;  ## Create CV PDF.
 	bundle exec jekyll serve --port 8765 --quiet --detach
 	pipenv run weasyprint http\://localhost\:8765/cv cv.pdf
 	pkill -f jekyll
-
-lockdown: ## Create assets for lockdown page from assets exported from Everyday.
-	ffmpeg -i video.mov -an -vcodec h264 -b:v 0.5M -filter:v scale=360:-1 -y lockdown.mp4
-	convert "PNG image.png" -resize x1280 lockdown-now.jpg
-	convert lockdown-start.jpg lockdown-now.jpg +append lockdown.jpg
-	sed -i "" -e "s/<span id=\"lastUpdated\">.*<\/span>/<span id=\"lastUpdated\">`date +"%A %d %B"`<\/span>/g" lockdown.markdown
-	git add lockdown.*
-	git commit --message "Lockdown `date +"%A %d %B"`" --no-verify
 
 images: ## Create resized and compressed images.
 	./images.sh

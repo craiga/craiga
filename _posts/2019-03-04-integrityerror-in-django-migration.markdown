@@ -2,7 +2,7 @@
 title: Handling Integrity Errors in Django Migrations
 description: "Short answer: don't 😉"
 date: 2019-03-04 12:50:00 +0000
-date-updated: 2020-06-28 11:40:00 +0100
+date-updated: 2021-04-23 15:22:00 +0100
 ---
 
 As part of a project I'm working on, I'm refactoring two nearly identical models (`create.Event` and `delete.Event`) into one (`generic.Event`).
@@ -59,7 +59,7 @@ django.db.transaction.TransactionManagementError: An error occurred in the curre
 
 After some digging, reading, and thinking, I realised that the cause of the `IntegrityError` isn't Python—it's Postgres. Handling the error in Python is suppressing an error about a failed transaction, but the transaction is still failed.
 
-[The Django docs give a clue about what's happening here](https://docs.djangoproject.com/en/2.1/topics/db/transactions/#handling-exceptions-within-postgresql-transactions):
+[The Django docs give a clue about what's happening here](https://docs.djangoproject.com/en/stable/topics/db/transactions/#handling-exceptions-within-postgresql-transactions):
 
 > Inside a transaction, when a call to a PostgreSQL cursor raises an exception (typically `IntegrityError`), all subsequent SQL in the same transaction will fail with the error “current transaction is aborted, queries ignored until end of transaction block”. While simple use of `save()` is unlikely to raise an exception in PostgreSQL, there are more advanced usage patterns which might, such as saving objects with unique fields, saving using the force_insert/force_update flag, or invoking custom SQL.
 
