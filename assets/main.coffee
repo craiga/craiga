@@ -245,13 +245,13 @@ fetch("https://api.untappd.com/v4/user/checkins/craiganderson?client_id=DF323643
 
     untappdPlaceholder.appendChild(document.createTextNode(". "))
 
-    link = document.createElement("a")
-    link.setAttribute("href", "https://untappd.com/user/craiganderson/checkin/#{ checkin.checkin_id }")
-    link.setAttribute("data-fathom-goal-id", fathomGoalId)
-    link.innerText = "I gave it #{ checkin.rating_score } out of 5"
-    untappdPlaceholder.appendChild(link)
-
-    untappdPlaceholder.appendChild(document.createTextNode("."))
+    if checkin.rating_score
+      link = document.createElement("a")
+      link.setAttribute("href", "https://untappd.com/user/craiganderson/checkin/#{ checkin.checkin_id }")
+      link.setAttribute("data-fathom-goal-id", fathomGoalId)
+      link.innerText = "I gave it #{ checkin.rating_score } out of 5"
+      untappdPlaceholder.appendChild(link)
+      untappdPlaceholder.appendChild(document.createTextNode("."))
 
     for checkin in responseData.response.checkins.items
       if checkin.media.count > 0
