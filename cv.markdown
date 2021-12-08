@@ -13,7 +13,7 @@ You can contact me via [email](mailto:craig@uhf62.co.uk).
 
 ## Skills Summary
 
-- Python, Django, Celery & Django REST Framework
+- Python, Django & Django REST Framework
 - HTML, CSS & JavaScript
 - Heroku
 
@@ -21,26 +21,20 @@ You can contact me via [email](mailto:craig@uhf62.co.uk).
 
 ### Crew Studio (Sep&nbsp;'21–now)
 
-[Crew Studio](https://www.crewstudio.co/) are a digital agency who work with a broad range of companies. I'm helping them build a warehouse system for [Reskinned](https://www.reskinned.clothing/), a program encouraging clothing reuse and recyling. The Reskinned warehouse system integrates directly with eBay and other retail platforms. It's built using Django, Heroku and GitHub actions.
+[Crew Studio](https://www.crewstudio.co/) are a digital agency who work with a broad range of companies.
 
+I'm helping them build a warehouse system for [Reskinned](https://www.reskinned.clothing/), a program encouraging clothing reuse and recyling. The Reskinned warehouse system integrates directly with eBay and other retail platforms. It's built using Django, Heroku and GitHub actions.
 
 ### Sharper Informatics Solutions (April&nbsp;'20–now)
-
-[Sharper Informatics Solutions](https://www.sharperinfo.com) are a new start-up founded to help people unlock the value in their data. I've been building their first product, [My Data Chameleon](https://mydatachameleon.com), it's a tool to help prepare energy efficiency data for the California Public Utilities Commission. It's been built using Django, Heroku and GitHub actions.
-
-### Stealth-mode startup (Nov&nbsp;'20–Dec&nbsp;'21)
-
-I built a number of decoy applications for an upcoming cyber-security product using Django, Starlette, and Docker.
-
-### Sharper Informatics Solutions (May&nbsp;'20–now)
 
 [Sharper Informatics Solutions](https://www.sharperinfo.com) are a Seattle-based startup with the goal of unlocking the hidden value in data.
 
 I joined Sharper Informatics Solutions to found and run the development process for [My Data Chameleon](https://mydatachameleon.com), a tool to help users prepare their energy efficiency program data for submission to the California Public Utilities Commission.
 
-### University of Strathclyde-based stealth-mode startup (Nov&nbsp;'20–now)
+### Stealth-mode startup (Nov&nbsp;'20–Dec&nbsp;'21)
 
-I built a number of applications for a stealth-mode startup based in the [University of Strathclyde](https://www.strath.ac.uk) in Glasgow.
+I built a number of decoy applications for a stealth-mode startup based in the [University of Strathclyde](https://www.strath.ac.uk) in Glasgow using Django, Starlette, and Docker.
+
 
 ### Red Badger (Nov&nbsp;'19–April&nbsp;'20)
 
