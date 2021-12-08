@@ -21,7 +21,7 @@ You can contact me via [email](mailto:craig@uhf62.co.uk).
 
 ### Crew Studio (Sep&nbsp;'21–now)
 
-[Crew Studio](https://www.crewstudio.co/) are a digital agency who work with a broad range of companies.
+[Crew Studio](https://www.crewstudio.co/) are a London-based digital agency who work with a broad range of companies.
 
 I'm helping them build a warehouse system for [Reskinned](https://www.reskinned.clothing/), a program encouraging clothing reuse and recyling. The Reskinned warehouse system integrates directly with eBay and other retail platforms. It's built using Django, Heroku and GitHub actions.
 
