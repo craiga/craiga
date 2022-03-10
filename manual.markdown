@@ -3,7 +3,7 @@ title: A User Manual For Me
 ---
 
 Inspired by [Cassie Robinson's article](https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694),
-here's a manual for working with me. It's very much a work in progress.
+here's a manual for working with me.
 
 ## Conditions I like to work in
 
