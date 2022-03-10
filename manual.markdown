@@ -35,6 +35,7 @@ here's a manual for working with me. It's very much a work in progress.
 ## Things I need
 
 - I'm a very social person. Spending time with my colleagues in a non-work environment is important to me.
+- I need to understand the wider context of the work I'm doing. I like to be included in discussions and decisions about product development if possible.
 
 ## Things I struggle with
 
