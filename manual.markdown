@@ -15,7 +15,7 @@ here's a manual for working with me. It's very much a work in progress.
 
 ## The times/hours I like to work
 
-- I like to have flexible hours if the project allows. Staying in touch with friends and family in Australia often requires mid-morning calls.
+- I like to have flexible hours if the project allows. Important appointments and staying in touch with friends in Australia often requires mid-morning calls.
 - I like to get started no later than 10:00 AM. This starting time can vary, depending on the situation. When working from home, this can be as early as 8:00 AM.
 - I like to take a break somewhere between midday and 2:00 PM.
 
@@ -25,6 +25,7 @@ here's a manual for working with me. It's very much a work in progress.
 - I like to collaborate asynchronously (e.g. via a series of thoughtful Slack messages) or at a scheduled time.
 - Slack is the best way to get my attention. I might not see and respond to your message immediately, but I will see it and respond when my flow allows.
 - I'm not great at keeping track of emails—messages can easily get lost there.
+- If you need to contact me urgently, a phone call would be the best way to get my attention.
 
 ## The ways I like to receive feedback
 
