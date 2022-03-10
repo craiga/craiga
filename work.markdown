@@ -1,6 +1,6 @@
 ---
 title: Hi, I'm Craig, a Freelance Digital Product Developer
-description: Freelance product developer specialising in Python and Django. Based in London.
+description: Freelance digital product developer specialising in Python and Django. Based in London.
 id: work
 ---
 
