@@ -27,4 +27,4 @@ I'm a specialist in Python and Django, have experience with a broad range of tec
 
 ## Charitable Giving
 
-I donate 4% of UHF 62's income to charity. In 2018, UHF 62 gave a total of £2,960 to [the Against Malaria Foundation](http://againstmalaria.com), [Crisis](http://crisis.org.uk), [Cancer Research UK](https://www.cancerresearchuk.org), [the Python Software Foundation](https://www.python.org/psf/) and [the Django Software Foundation](https://www.djangoproject.com/foundation/).
+I donate 4% of UHF 62's income to charity. In 2021, UHF 62 gave more than £6000 to [the Against Malaria Foundation](http://againstmalaria.com), [Crisis](http://crisis.org.uk), [Cancer Research UK](https://www.cancerresearchuk.org), the [Python](https://www.python.org/psf/) and [Django](https://www.djangoproject.com/foundation/) software foundations, [Tell MAMA](https://tellmamauk.org), [Galop](https://galop.org.uk), [Safe Gigs for Women](https://sgfw.org.uk), [Gig Buddies](https://gigbuddies.org.uk), and [Go Give 1](https://gogiveone.org).
