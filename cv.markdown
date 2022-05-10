@@ -19,22 +19,25 @@ You can contact me via [email](mailto:craig@uhf62.co.uk).
 
 ## Work History
 
-### Crew Studio (Sep&nbsp;'21–now)
-
-[Crew Studio](https://www.crewstudio.co/) are a London-based digital agency who work with a broad range of companies.
-
-I'm helping them build a warehouse system for [Reskinned](https://www.reskinned.clothing/), a program encouraging clothing reuse and recyling. The Reskinned warehouse system integrates directly with eBay and other retail platforms. It's built using Django, Heroku and GitHub actions.
-
 ### Sharper Informatics Solutions (April&nbsp;'20–now)
 
 [Sharper Informatics Solutions](https://www.sharperinfo.com) are a Seattle-based startup with the goal of unlocking the hidden value in data.
 
 I joined Sharper Informatics Solutions to found and run the development process for [My Data Chameleon](https://mydatachameleon.com), a tool to help users prepare their energy efficiency program data for submission to the California Public Utilities Commission.
 
+### Sound Data (June&nbsp;'20–now)
+
+[Sound Data](https://www.sound-data.com) are a data consultancy based in the US. I've been providing them with ad-hoc web development services across a number projects they run for a variety of clients.
+
+### Crew Studio (Sep&nbsp;'21–Mar&nbsp;'22)
+
+[Crew Studio](https://www.crewstudio.co/) are a London-based digital agency who work with a broad range of companies.
+
+I'm helping them build a warehouse system for [Reskinned](https://www.reskinned.clothing/), a program encouraging clothing reuse and recyling. The Reskinned warehouse system integrates directly with eBay and other retail platforms. It's built using Django, Heroku and GitHub actions.
+
 ### Stealth-mode startup (Nov&nbsp;'20–Dec&nbsp;'21)
 
 I built a number of decoy applications for a stealth-mode startup based in the [University of Strathclyde](https://www.strath.ac.uk) in Glasgow using Django, Starlette, and Docker.
-
 
 ### Red Badger (Nov&nbsp;'19–April&nbsp;'20)
 
