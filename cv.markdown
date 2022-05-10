@@ -43,7 +43,7 @@ I built a number of decoy applications for a stealth-mode startup based in the [
 
 [Red Badger](https://red-badger.com) are an award-winning digital transformation agency.
 
-I joined Red Badger's cross-functional team using a variety of technologies, including Rust and React.
+I joined Red Badger's cross-functional team at MHRA to deliver [a new products website](https://products.mhra.gov.uk) in two months, and then quickly iterate to improve the site's integration with MHRA's systems. The site uses a variety of technologies, including Rust and React.
 
 ### Kainos (Sep&nbsp;'19–Nov&nbsp;'19)
 
