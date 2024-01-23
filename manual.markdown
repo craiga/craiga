@@ -7,15 +7,16 @@ here's a manual for working with me.
 
 ## Conditions I like to work in
 
+- I have a home office and prefer to work there whenever possible.
 - I like a quiet area with minimal interruptions.
 - [Flow](<https://en.wikipedia.org/wiki/Flow_(psychology)>) is important to me.
   If required, I'll schedule my own flow time so I can get stuck in to my work.
-- I like to have my own desk space with enough room for my 15" laptop and a 27" monitor side-by-side.
+- I like to have my own desk space with enough room for my 15" laptop and a large external monitor side-by-side.
 - I'm a bit claustrophobic. Having space is important to me.
 
 ## The times/hours I like to work
 
-- I like to have flexible hours if the project allows. Important appointments and staying in touch with friends in Australia often requires mid-morning calls.
+- I like to have flexible hours if the project allows. Important appointments and staying in touch with friends in Australia often require mid-morning calls.
 - I like to get started no later than 10:00 AM. This starting time can vary, depending on the situation. When working from home, this can be as early as 8:00 AM.
 - I like to take a break somewhere between midday and 2:00 PM.
 
@@ -23,8 +24,8 @@ here's a manual for working with me.
 
 - When I'm not in flow, I'm happy for you to interrupt me.
 - I like to collaborate asynchronously (e.g. via a series of thoughtful Slack messages) or at a scheduled time.
-- Slack is the best way to get my attention. I might not see and respond to your message immediately, but I will see it and respond when my flow allows.
-- I'm not great at keeping track of emails—messages can easily get lost there.
+- @-mentioning me on Slack is the best way to get my attention. I might not see and respond to your message immediately, but I will see it and respond when my flow allows.
+- I'm not great at keeping track of conversations when they're surrounded by a lot of noise. Messages requiring my attention may get lost in emails or in chatty Slack channels.
 - If you need to contact me urgently, a phone call would be the best way to get my attention.
 
 ## The ways I like to receive feedback
