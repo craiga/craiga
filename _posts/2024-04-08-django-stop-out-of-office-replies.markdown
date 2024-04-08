@@ -13,6 +13,7 @@ from collections.abc import Sequence
 from django.core.mail import EmailMessage
 from django.core.mail.backends import base, smtp
 
+
 class OutOfOfficeSuppressMixin(base.BaseEmailBackend):
     """Mixin to add out of office suppression header to all emails."""
 
