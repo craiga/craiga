@@ -11,7 +11,7 @@ pyenv virtualenv 3.13.5 my-cool-proj
 echo "my-cool-proj" > .python-version
 ```
 
-This causes pyenv to use its shim magic to switch to the `my-cool-proj` virtual environment when I `cd` into my project’s directories.
+This causes pyenv to use its shim magic to activate the `my-cool-proj` virtual environment when I `cd` into the project.
 
 Unfortunately, this conflicts with an emerging community standard where tools are expecting `.python-version` to contain the version of Python this project makes use of. Heroku, for example, [have marked their `runtime.txt` file as deprecated](https://devcenter.heroku.com/changelog-items/3141) and [are now using `.python-version` to determine which version of Python to use](https://devcenter.heroku.com/articles/python-runtimes).
 
