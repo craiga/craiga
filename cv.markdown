@@ -5,16 +5,14 @@ description: Curriculum Vitae of Craig Anderson, a freelance digital product dev
 
 I'm a digital product developer specialising in web applications with over {{ "now" | date: "%Y" | minus: 2000 }} years of experience. I'm motivated by work for social and environmental good.
 
-I love pets, but unfortunately I'm unable to work in an office with them as I live with somebody with severe allergies.
-
 ## Contact Details
 
 You can contact me via [email](mailto:craig@uhf62.co.uk).
 
 ## Skills Summary
 
-- Python, Django & Django REST Framework
-- HTML, CSS & JavaScript
+- Python, Django, & Django REST Framework
+- HTML, CSS, JavaScript, & HTMX
 - Heroku
 
 ## Work History
@@ -25,9 +23,15 @@ You can contact me via [email](mailto:craig@uhf62.co.uk).
 
 I joined Sharper Informatics Solutions to found and run the development process for [My Data Chameleon](https://mydatachameleon.com), a tool to help users prepare their energy efficiency program data for submission to the California Public Utilities Commission.
 
+Since then I've also provided development and management services for [a database to track genetic diversity in a fish population](https://www.nscf-wct.org/).
+
+### Sound Data Science (January&nbsp;'23–now)
+
+[Sound Data Science](https://www.sound-data-science.org) are a non-profit organization providing data management services. I've been providing them with ad-hoc web development services across a number projects they run for a variety of clients.
+
 ### Sound Data (June&nbsp;'20–now)
 
-[Sound Data](https://www.sound-data.com) are a data consultancy based in the US. I've been providing them with ad-hoc web development services across a number projects they run for a variety of clients.
+[Sound Data](https://www.sound-data.com) are a data consultancy based in the US. I've been providing them with web development and management services across a number projects including [Cedars](https://cedars.cpuc.ca.gov) (a legacy portal for California-based utility companies to report on energy effciency programs) and [Otter](https://otter.dnv.com/) (a tool to manage reviews of large energy efficiency programs California-based utility companies run).
 
 ### Crew Studio (Sep&nbsp;'21–Mar&nbsp;'22)
 
