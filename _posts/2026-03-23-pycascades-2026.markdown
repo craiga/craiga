@@ -19,9 +19,3 @@ Here's a grab-bag of interesting little things I learned about:
 While I’ve been in the Pacific Northwest, I’ve also had the immense pleasure of meeting much of the [Sharper Informatics Solutions](https://www.sharperinfo.com) team for the first time, some of whom I’ve been working with in various roles since 2020. We got to hang out at the Vancouver Aquarium for the day, which was great!
 
 Anyway, I’m writing this as the post-conference sprints are happening, so I need to get this posted and head along to that. 👋
-
----
-Annotations: 0,1937 SHA-256 8bdf0247ddad59d47afb  
-&Writing Tools: 86 878 1302 1525 1792  
-@Craig Anderson <craiga@craiga.id.au>: 845,3 881 890 1682 1810,127  
-...
