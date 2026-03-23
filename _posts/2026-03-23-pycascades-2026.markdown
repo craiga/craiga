@@ -1,0 +1,27 @@
+---
+title: PyCascades 2026
+date: 2026-03-23 10:50:00 -0700
+---
+
+[A couple of weeks ago, I promised to write a new blog post every week](https://craiga.id.au/2026/03/03/once-a-week), and I've already missed the second week 😢
+
+I've got a good excuse though! I've been in Vancouver for [PyCascades 2026](https://2026.pycascades.com), which took place over the weekend just passed.
+
+Here's a grab-bag of interesting little things I learned about:
+
+- [bitrot](https://pypi.org/project/bitrot/), a Python package for detecting when bit rot happens.
+- A technique for using [indirect parameters](https://docs.pytest.org/en/7.1.x/example/parametrize.html#indirect-parametrization) in Pytest as a way to pass parameters to fixtures. The examples given felt very familiar to me: instead of having fixtures with names like `admin_user` and `read_only_user`, you can have a single, generalised  `user` fixture and pass role as an indirect parameter.
+- The acquisition of Astral (makers of the excellent Ruff) by Open AI.
+- Despite the vibe I get from a lot of online chatter, there are still plenty of developers with pretty strong anti-AI sentiments.
+- Python now has [t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/), which are a lot like f-strings but maintain the semantics of how the string was built.
+- I've got a [couple](https://donkirkby.github.io/testing/) [more](https://pytest-with-eric.com/tdd/pytest-tdd/) links to share with my team to try and improve our tests.
+
+While I’ve been in the Pacific Northwest, I’ve also had the immense pleasure of meeting much of the [Sharper Informatics Solutions](https://www.sharperinfo.com) team for the first time, some of whom I’ve been working with in various roles since 2020. We got to hang out at the Vancouver Aquarium for the day, which was great!
+
+Anyway, I’m writing this as the post-conference sprints are happening, so I need to get this posted and head along to that. 👋
+
+---
+Annotations: 0,1937 SHA-256 8bdf0247ddad59d47afb  
+&Writing Tools: 86 878 1302 1525 1792  
+@Craig Anderson <craiga@craiga.id.au>: 845,3 881 890 1682 1810,127  
+...
