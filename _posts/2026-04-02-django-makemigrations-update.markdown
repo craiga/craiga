@@ -13,13 +13,13 @@ From [Django's documentation](https://docs.djangoproject.com/en/stable/ref/djang
 
 I've got no idea how long this option has existed, but I've already found it helpful in reducing the amount of migration wrangling I've needed to do manually.
 
-## Using the `--name` option
+## Using the --name option
 
 The `--name` option is a bit fiddly; it’ll take whatever name you provide and prefix it with a migration number, but will also suffix the name with “_update”.
 
 For example, `--name my_migration` will create a migration file named `0002_my_migration_update.py`.
 
-## It handles `RunPython` operations … sort of
+## It handles RunPython operations … sort of
 
 If the migration you're updating contains any `RunPython` operations, it will preserve them, but it won't copy the code for you.
 
