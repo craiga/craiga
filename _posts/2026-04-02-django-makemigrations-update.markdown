@@ -40,7 +40,7 @@ migrations.RunPython(
 # my_app.migrations.0002_my_migration
 ```
 
-I suspect this is the reason the new migration is created with the… `_updated` suffix; the existing migration needs to be left untouched so that the user can copy over functions.
+I suspect this is the reason the new migration is created with the `_updated` suffix; the existing migration needs to be left untouched so that the user can copy over functions.
 
 I suspect other operations are handled similarly, but I haven't tested them.
 
