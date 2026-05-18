@@ -23,15 +23,15 @@ You can contact me via [email](mailto:craig@uhf62.co.uk).
 
 I joined Sharper Informatics Solutions to found and run the development process for [My Data Chameleon](https://mydatachameleon.com), a tool to help users prepare their energy efficiency program data for submission to the California Public Utilities Commission.
 
-Since then I've also provided development and management services for [a database to track genetic diversity in a fish population](https://www.nscf-wct.org/).
+Since then I've also provided development and agile coaching services for [Cedars](https://cedars.cpuc.ca.gov) (a legacy portal for California-based utility companies to report on energy effciency programs), [Otter](https://otter.dnv.com/) (a tool to manage reviews of large energy efficiency programs California-based utility companies run), and [NSCF Westslope Cutthroat](https://www.nscf-wct.org/) (a database to track genetic diversity in a fish population).
 
 ### Sound Data Science (January&nbsp;'23–now)
 
 [Sound Data Science](https://www.sound-data-science.org) are a non-profit organization providing data management services. I've been providing them with ad-hoc web development services across a number projects they run for a variety of clients.
 
-### Sound Data (June&nbsp;'20–now)
+### Sound Data (June&nbsp;'20–Jan&nbsp;'26)
 
-[Sound Data](https://www.sound-data.com) are a data consultancy based in the US. I've been providing them with web development and management services across a number projects including [Cedars](https://cedars.cpuc.ca.gov) (a legacy portal for California-based utility companies to report on energy effciency programs) and [Otter](https://otter.dnv.com/) (a tool to manage reviews of large energy efficiency programs California-based utility companies run).
+[Sound Data](https://www.sound-data.com) are a data consultancy based in the US. They formerly ran some of the projects which have since been taken over by Sharper Informatics Solutions.
 
 ### Crew Studio (Sep&nbsp;'21–Mar&nbsp;'22)
 
