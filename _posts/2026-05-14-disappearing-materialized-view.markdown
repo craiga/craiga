@@ -1,6 +1,7 @@
 ---
 title: Django and the curious case of the disappearing materialized view
 date: 2026-05-14 19:45:00 +0100
+date-updated: 2026-05-18 19:00:00 +0100
 ---
 
 Update 2026-05-18: Turns out this was [fixed in Django 6](https://docs.djangoproject.com/en/6.0/releases/6.0/#database-backend-api):
