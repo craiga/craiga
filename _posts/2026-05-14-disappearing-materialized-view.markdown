@@ -3,6 +3,20 @@ title: Django and the curious case of the disappearing materialized view
 date: 2026-05-14 19:45:00 +0100
 ---
 
+Update 2026-05-18: Turns out this was [fixed in Django 6](https://docs.djangoproject.com/en/6.0/releases/6.0/#database-backend-api):
+
+> `BaseDatabaseSchemaEditor` and PostgreSQL backends no longer use `CASCADE` when dropping a column.
+
+In the latest version of Django, the database error is shown to the user as one would expect:
+
+```
+psycopg.errors.DependentObjectsStillExist: cannot drop column invoice_date of table invoices_invoice because other objects depend on it
+DETAIL:  view sales_summary depends on column invoice_date of table invoices_invoice
+HINT:  Use DROP ... CASCADE to drop the dependent objects too.
+```
+
+---
+
 A project I've been working on depends on a number of [materialized views](https://www.postgresql.org/docs/current/rules-materializedviews.html), a nifty feature of Postgres which is somewhere between a traditional view and a table.
 
 If you've got some complex query that takes a long time to run, materialized views can be very useful. A materialized view will run that complex query, store the result, and then return that stored result to anyone who queries that view.
@@ -38,7 +52,7 @@ If you try to drop a column used by a materialized view in Postgres, you'll get 
 
 ```
 mydb=> ALTER TABLE invoices_invoice DROP COLUMN invoice_date;
-ERROR:  cannot drop column invoice_date of table invoice because other objects depend on it
+ERROR:  cannot drop column invoice_date of table invoices_invoice because other objects depend on it
 DETAIL:  materialized view sales_summary depends on column invoice_date of table invoices_invoice
 HINT:  Use DROP ... CASCADE to drop the dependent objects too.
 ```
