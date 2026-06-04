@@ -54,7 +54,7 @@ React first launched in 2013. Vue was first released in 2014. Angular launched i
 
 Around this period, HTML 5 was just starting its life as a living standard and adding a bunch of new elements and redefining old ones. CSS was far more complex than its initial draft and had an overwhelming number of vendor-specific capabilities. And I’ve never been able to understand what was going on with JavaScript at this time—ECMAScript, CommonJS, TypeScript were around at this time, each subtly different from each other.
 
-When one considers how much more complex web development had gotten by the mid-2010s, it starts to make sense that these were simpler entry points for learners. Instead of learning HTML *and* CSS *and* JavaScript (*and* a server-side framework *and* how to set up nginx and so on), why not just learn this one thing that abstracts all of that stuff away?
+When one considers how much more complex web development had gotten by the mid-2010s, it starts to make sense that front-end frameworks were simpler entry points for learners. Instead of learning HTML *and* CSS *and* JavaScript (*and* a server-side framework *and* how to set up nginx and so on), why not just learn one front-end framework that abstracts all of that stuff away?
 
 ---
 
